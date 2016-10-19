@@ -1,7 +1,7 @@
 Source: qpdfview
 Section: graphics
 Priority: optional
-Maintainer: Argenis Osorio <aosorio@cenditel.gob.ve>
+Maintainer: Argenis Osorio (dM) <aosorio@cenditel.gob.ve>
 Build-Depends: debhelper (>=9.0.0), libcups2-dev, qttools5-dev-tools, qtbase5-dev, libqt5svg5-dev, libpoppler-qt5-dev, pkg-config, libspectre-dev, libdjvulibre-dev, dpkg-dev (>=1.16.1.1), zlib1g-dev
 Standards-Version: 3.9.5
 Homepage: https://launchpad.net/qpdfview
